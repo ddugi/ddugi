@@ -12,10 +12,10 @@
 
 ###  What I do
 
-- ☁️ **Cloud & Infrastructure** — AWS and Azure, Infrastructure as Code (Terraform, CDK, Bicep)
-- 🔁 **DevOps & Platform** — CI/CD with GitHub Actions, containers, Kubernetes, observability
-- 🤖 **AI Engineering** — LLM agents, AI-assisted IaC generation, compliance automation
-- 🛡️ **Governance** — making cloud environments secure and compliant by default
+-  **Cloud & Infrastructure**  AWS and Azure, Infrastructure as Code (Terraform, CDK, Bicep)
+-  **DevOps & Platform**  CI/CD with GitHub Actions, containers, Kubernetes, observability
+-  **AI Engineering** LLM agents, AI-assisted IaC generation, compliance automation
+-  **Governance** making cloud environments secure and compliant by default
 
 ### 🛠️ Tech stack
 
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,ts,go,nodejs,git,vscode&theme=dark" alt="Languages"/>
 </p>
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -32,11 +32,11 @@
 | [**IaC from architecture diagrams**](https://github.com/ddugi/guidance-for-developing-infrastructure-as-code-templates-from-architecture-diagrams-on-aws) | Turn architecture diagrams into deployable IaC templates with AI | TypeScript · AWS |
 | [**azure-diagrams-skill**](https://github.com/ddugi/azure-diagrams-skill) | Generate professional Azure architecture diagrams with AI | Python · Azure |
 
-### 🌱 Currently
+###  Currently
 
-- 🔭 Building AI tooling for DevOps and cloud compliance
-- 📚 Exploring agentic workflows (Claude, Langflow, MCP)
-- 💬 Ask me about **cloud architecture, CI/CD, IaC and AI automation**
+- Building AI tooling for DevOps and cloud compliance
+- Exploring agentic workflows (Claude, Langflow, MCP)
+- Ask me about **cloud architecture, CI/CD, IaC and AI automation**
 
 ---
 
