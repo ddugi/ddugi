@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 What I do
+###  What I do
 
 - ☁️ **Cloud & Infrastructure** — AWS and Azure, Infrastructure as Code (Terraform, CDK, Bicep)
 - 🔁 **DevOps & Platform** — CI/CD with GitHub Actions, containers, Kubernetes, observability
