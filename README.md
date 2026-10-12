@@ -17,7 +17,7 @@
 -  **AI Engineering** LLM agents, AI-assisted IaC generation, compliance automation
 -  **Governance** making cloud environments secure and compliant by default
 
-### 🛠️ Tech stack
+###  Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,linux,bash&theme=dark" alt="Infra"/><br/>
