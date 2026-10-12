@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dugi 👋</h1>
+<h1 align="center">Hi, I'm Dugi </h1>
 <p align="center">
   <b>DevOps & Cloud Engineer · AI-driven automation · Göteborg, Sweden</b><br/>
   Founder of <a href="https://dvskonsult.se">DVS Konsult</a> — I help teams ship faster with solid infrastructure, CI/CD and practical AI.
